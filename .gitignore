@@ -1,0 +1,24 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Build output
+output/
+bin/
+build/
+
+# Editor settings and temporary files
+.vscode/
+*.tmp
+*~
+tempCodeRunnerFile.cpp
+
+# Diagrams and other local design artifacts
+*.excalidraw
+
+# Operating-system files
+.DS_Store
+Thumbs.db
