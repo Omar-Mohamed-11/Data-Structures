@@ -182,10 +182,10 @@ A quick comparison of the common operations across the implemented data structur
 
 **Complexity Notes:**
 
-- \* At a known insertion/deletion position or with the required node pointer.
-- \** Access to the top of a Stack or front of a Queue.
-- \*** Array resizing may occasionally require O(N); the amortized insertion complexity of a dynamic array-based implementation is O(1).
-- \**** Depends on the insertion/deletion strategy and tree structure.
+1. **Linked Lists:** O(1) insertion/deletion assumes the target position or required node pointer is already known.
+2. **Stack & Queue:** O(1) access refers to accessing the top of a Stack or the front of a Queue.
+3. **Array-Based Implementations:** Resizing may require O(N), while dynamic array insertion is O(1) amortized.
+4. **Binary Tree:** Insertion and deletion complexities depend on the implementation and tree structure.
 
 ---
 
