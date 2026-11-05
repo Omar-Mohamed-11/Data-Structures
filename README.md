@@ -1,10 +1,8 @@
 # Data Structures in C++
 
-مجموعة تطبيقات عملية لهياكل البيانات بلغة C++، مرتبة حسب الموضوع لتسهيل التعلّم والمراجعة. يحتوي كل ملف على تنفيذ مستقل مع أمثلة تشغيل بسيطة.
-
 A collection of practical C++ data-structure implementations, organized by topic for easier learning and review. Each source file is a self-contained implementation with simple usage examples.
 
-## Contents | المحتويات
+## Contents
 
 ```text
 .
@@ -21,12 +19,12 @@ A collection of practical C++ data-structure implementations, organized by topic
 | `3- Queue` | `Linear_queue.cpp`, `Circular_queue.cpp`, `Queue_array.cpp`, `Queue_List.cpp`, `Queue_Using_LinkedList.cpp` |
 | `4- Trees` | `BinaryTree.cpp` |
 
-## Prerequisites | المتطلبات
+## Prerequisites
 
 - A C++17-compatible compiler: GCC, Clang, or MSVC.
 - A terminal or IDE such as Visual Studio Code to compile and run individual examples.
 
-## Build an example | تشغيل مثال
+## Build an example
 
 Compile any file independently. For example, with GCC or Clang:
 
