@@ -130,9 +130,6 @@ A Queue is a linear data structure that follows the **First-In, First-Out (FIFO)
 
 Circular Queue indexing allows efficient reuse of previously occupied array positions.
 
-\[
-\text{next} = (\text{current} + 1) \bmod \text{capacity}
-\]
 
 ## 4. Binary Tree
 
