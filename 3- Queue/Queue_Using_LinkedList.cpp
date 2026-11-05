@@ -73,7 +73,7 @@ public:
 
 	int peek()
 	{
-		if (isEmpty)
+		if (isEmpty())
 			exit(1);
 		else
 			return head->data;
